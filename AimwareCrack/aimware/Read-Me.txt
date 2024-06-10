@@ -1,0 +1,26 @@
+Inject at startup of game or then it wont work most recomnended is exloader because it can automaticaly do this for you.
+
+CFG Dir is cs2 path.
+Exloader download links 
+https://rdce.me/i4Fx/
+https://en.exloader.net
+
+How to add dll to exloader? here i gotchu.
+
+Download setup everything > Others > Youre mods > plus sign+ > Select CS2 > add dll > Click on mod > Launch
+
+                                                                                          $$\           $$\           
+                                                                                          \__|          $$ |          
+                                                             $$$$$$$\  $$$$$$\   $$$$$$$\ $$\  $$$$$$\  $$ | $$$$$$$\ 
+                                                            $$  _____|$$  __$$\ $$  _____|$$ | \____$$\ $$ |$$  _____|
+                                                            \$$$$$$\  $$ /  $$ |$$ /      $$ | $$$$$$$ |$$ |\$$$$$$\  
+                                                             \____$$\ $$ |  $$ |$$ |      $$ |$$  __$$ |$$ | \____$$\ 
+                                                            $$$$$$$  |\$$$$$$  |\$$$$$$$\ $$ |\$$$$$$$ |$$ |$$$$$$$  |
+                                                            \_______/  \______/  \_______|\__| \_______|\__|\_______/ 
+                                                                                                                      
+                                                                                                                      
+                                                                                                                      
+      _______________________________________________________________
+     |https://discord.gg/N8WdFKSbxy <--- Join for more cracks🔐     |
+     |https://discord.gg/gC83SNBuHF <--- Support me💤               |
+     ----------------------------------------------------------------
